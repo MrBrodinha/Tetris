@@ -1,0 +1,3 @@
+/mnt/c/school/3_ano/CG/Tetris3D/builder/CMakeFiles/Tetris3D.dir
+/mnt/c/school/3_ano/CG/Tetris3D/builder/CMakeFiles/edit_cache.dir
+/mnt/c/school/3_ano/CG/Tetris3D/builder/CMakeFiles/rebuild_cache.dir
