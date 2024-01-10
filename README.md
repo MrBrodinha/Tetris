@@ -2,7 +2,7 @@
 
 This computational graphics project was developed as part of a class by the following group members:
 
-- Emanuel Pacheco
+- Emanuel Pacheco (Me)
 - Rodrigo Fonseca
 - Vicente Chã
 - Ricardo Pereira
